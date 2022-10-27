@@ -1,0 +1,62 @@
+.mynav{
+    background-color: #002d2d !important;
+}
+
+select{
+    background-color: #002d2d !important;
+    color:  white;
+}
+
+.my-btn:hover , .my-btn2:hover{
+    background-color: #002d2d !important;
+    border: green 2px solid;
+}
+
+.my-btn{
+    width: 200px;
+    max-height: 90px;
+}
+.my-btn2{
+    margin-left: 2%;
+}
+
+.slide{
+    transition: all 1s ease-in;
+ }
+
+.link{
+    padding-bottom: 1%;
+    margin-left: 3%;
+    font-weight: 900;
+}
+.link:hover{
+    border-bottom: white solid 1px;
+}
+
+.fontWeight{
+    font-weight: 900;
+}
+.world{
+ background-color:  #f3fcf4;
+ margin-top: 5%;
+}
+.myFooter
+{
+    background-color: #004c3f;
+    border-bottom: rgba(255, 255, 255, 0.2) solid 2px;
+
+}
+
+.fa-brands , .fa-earth-americas {
+    color: white;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+.fa-brands:hover,
+.fa-earth-americas:hover{
+    cursor: pointer;
+}
+
+.newBtn{
+    margin: 0 auto;
+}
